@@ -1,0 +1,29 @@
+ h1 {
+  color: green;
+}
+
+h2 {
+  color: blue;
+}
+
+h3 {
+  color: red;
+}
+
+p {
+  color: orange;
+}
+
+p {
+      width: 300px;
+      color: orange;
+    }
+	
+	td {
+	width: 400px;
+	height: 300px;
+}
+
+p {
+	text-align: right;
+}
